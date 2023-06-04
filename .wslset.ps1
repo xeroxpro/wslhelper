@@ -4,10 +4,13 @@ Start-Process powershell.exe -argumentList('
 "Add-PoshGitToProfile -AllHosts​​​​​​​";
 "git clone https://github.com/xeroxpro/wslhelper.git"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "cp wsl2/wslhelper/.wslspec.ps1 C:\Windows\System32";
 "cp wsl2/wslhelper/wsl.vbs C:\Windows\System32";
 "cp wsl2/wslhelper/wsldiag.bat C:\Windows\System32";
 =======
+=======
+>>>>>>> 70c335f (Conf. Fixed)
 "cp wsl2/.wslspec.ps1 C:\Windows\System32";
 "cp wsl2/wsl.vbs C:\Windows\System32";
 "cp wsl2/wsldiag.bat C:\Windows\System32";
